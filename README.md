@@ -35,22 +35,21 @@ Categorical Vs Quantitative Varibales as Dimensions and Measures: Genres Vs Aver
   Variable : Sum of Tracks Vs User Tiers: <br/>
 <![image](https://github.com/user-attachments/assets/85da7279-a674-4442-9e20-086590fb953e)
 />
+
+<p align="center"> Tracks Listened by Genres Vs User Tiers Over Time
+
+Variables: Sum of Tracks Listened, Year, Genres  <br/>
+<![image](https://github.com/user-attachments/assets/aee3cc99-4113-4626-a793-ce2378bee6fa)
+
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Project Report and Insights
+
+<![image](https://github.com/user-attachments/assets/fe8e08c9-ff98-4205-8eac-283f09f18d02)
+
+Recommendations :  <br/>
+<![image](https://github.com/user-attachments/assets/373e0455-7c06-4dc4-a286-0df25b880504)
+>
 </p>
 
 <!--
